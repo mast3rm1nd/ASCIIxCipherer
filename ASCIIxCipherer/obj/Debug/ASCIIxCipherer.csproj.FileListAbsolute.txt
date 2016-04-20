@@ -1,0 +1,13 @@
+C:\Dropbox\!Coding\All_in_one\ASCIIxCipherer\ASCIIxCipherer\bin\Debug\ASCIIxCipherer.exe.config
+C:\Dropbox\!Coding\All_in_one\ASCIIxCipherer\ASCIIxCipherer\bin\Debug\ASCIIxCipherer.exe
+C:\Dropbox\!Coding\All_in_one\ASCIIxCipherer\ASCIIxCipherer\bin\Debug\ASCIIxCipherer.pdb
+C:\Dropbox\!Coding\All_in_one\ASCIIxCipherer\ASCIIxCipherer\obj\Debug\ASCIIxCipherer.csprojResolveAssemblyReference.cache
+C:\Dropbox\!Coding\All_in_one\ASCIIxCipherer\ASCIIxCipherer\obj\Debug\MainWindow.baml
+C:\Dropbox\!Coding\All_in_one\ASCIIxCipherer\ASCIIxCipherer\obj\Debug\MainWindow.g.cs
+C:\Dropbox\!Coding\All_in_one\ASCIIxCipherer\ASCIIxCipherer\obj\Debug\App.g.cs
+C:\Dropbox\!Coding\All_in_one\ASCIIxCipherer\ASCIIxCipherer\obj\Debug\ASCIIxCipherer_MarkupCompile.cache
+C:\Dropbox\!Coding\All_in_one\ASCIIxCipherer\ASCIIxCipherer\obj\Debug\ASCIIxCipherer.g.resources
+C:\Dropbox\!Coding\All_in_one\ASCIIxCipherer\ASCIIxCipherer\obj\Debug\ASCIIxCipherer.Properties.Resources.resources
+C:\Dropbox\!Coding\All_in_one\ASCIIxCipherer\ASCIIxCipherer\obj\Debug\ASCIIxCipherer.csproj.GenerateResource.Cache
+C:\Dropbox\!Coding\All_in_one\ASCIIxCipherer\ASCIIxCipherer\obj\Debug\ASCIIxCipherer.exe
+C:\Dropbox\!Coding\All_in_one\ASCIIxCipherer\ASCIIxCipherer\obj\Debug\ASCIIxCipherer.pdb
